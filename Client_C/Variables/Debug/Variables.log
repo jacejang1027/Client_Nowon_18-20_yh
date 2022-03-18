@@ -1,6 +1,2 @@
-﻿  Variables.c
-C:\Users\User\Documents\GitHub\Client_Nowon_18-20_yh\Client_C\Variables\Variables.c(24,6): warning C4305: '=': 'int'에서 'char'(으)로 잘립니다.
-C:\Users\User\Documents\GitHub\Client_Nowon_18-20_yh\Client_C\Variables\Variables.c(38,9): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
-C:\Users\User\Documents\GitHub\Client_Nowon_18-20_yh\Client_C\Variables\Variables.c(14,7): warning C4101: 'l' :참조되지 않은 지역 변수입니다.
-C:\Users\User\Documents\GitHub\Client_Nowon_18-20_yh\Client_C\Variables\Variables.c(15,12): warning C4101: 'll' :참조되지 않은 지역 변수입니다.
-  Variables.vcxproj -> C:\Users\User\Documents\GitHub\Client_Nowon_18-20_yh\Client_C\Debug\Variables.exe
+﻿Variables.obj : error LNK2019: _strien_main 함수에서 참조되는 확인할 수 없는 외부 기호
+C:\Users\User\Documents\GitHub\Client_Nowon_18-20_yh\Client_C\Debug\Variables.exe : fatal error LNK1120: 1개의 확인할 수 없는 외부 참조입니다.

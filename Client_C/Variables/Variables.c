@@ -1,6 +1,6 @@
 #include<stdio.h>
 int main(void) {
-	// 키워드 (예약어)
+	// 키워드 (예약어)-파란색글자
 	// 내부적으로 문법을 위한 용도로 정의되어있는 단어. 
 	//'자료형' '식별자이름(변수이름)'
 	// 변수이름으로 키워드는 사용할수 없다.
@@ -55,6 +55,7 @@ int main(void) {
 	printf("%d\n", arr1x_1[0]);
 	printf("%d\n", arr1x_1[1]);
 	printf("%d\n", arr1x_1[2]);
+	printf("%d\n", arr1x_2[2]);
 	
 	
 	//2차원배열
@@ -92,11 +93,28 @@ int main(void) {
 	strcpy(str1, "I don't know you");
 	printf("%s\n", str1);
 	// strien(문자열 값): 문자열 값의 길이를 반환
-	strien(str1);
-	printf("%d\n", strien(str1));
-	printf("%d\n", strien("I don't know you"));
+	strlen(str1, "I don't know you");
+	printf("%d\n", strlen(str1));
+	printf("%d\n", strlen("Idon'tknowyou"));
 	// strcmp(문자열값1, 문자열값2) : 문자열을 아스키코드로 변환했을때 문자열값1이 더크면 양수반환,
 	//같으면 0반환, 작으면-1반환
+	printf("%d\n", strcmp(str3, str4));
+
+	//const 키워드
+	//const 로 정의된 변수는 초기화 이후에 값을 수정할 수 없음, 
+	//변수를 상수처럼 사용하기 위한 용도
+	//--------------------------------------------------
+	
+	const int goalPosition = 200;
+	//goalPosition = 400;
+	//LValue 와  RValue
+	//대입연산자 기준으로 왼쪽에 있는 값을 LValue, 오른쪽에있는 값을 RValue라고함
+//------------------------------------------------------------------------
+	//변수를 선언할때 유의할점
+	//1. 키워드(예약어)와 다른 식별자 이름.
+	//2.식별자 이름을 쓸 때에는 알파벳. 아라비아숫자, _(언더바 : 주로 단어사이에 구분하기위해 사용) 
+
+	
 
 
 

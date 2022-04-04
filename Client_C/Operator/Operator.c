@@ -126,6 +126,7 @@ int main()
 	int size_intConstant = sizeof(3);
 	printf(" % d, % d, % d\n" , size_int, size_size_int, size_intConstant);
 
+	
 	//연산자의 우선순위
 	// 단항 > 산술 > 관계 > 논리 > 대입 > 콤마
     

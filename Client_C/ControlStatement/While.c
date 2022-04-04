@@ -29,7 +29,7 @@ int main(void) {
 	printf("while statement is over\n");
 
 
-	//do while
+	
 	do
 	{
 		printf("do while test");

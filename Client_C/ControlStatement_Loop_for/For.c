@@ -23,15 +23,16 @@ int main(void) {
 		}
 		if (i>10)
 		{
-			printf(" index is bigger than 10, exit for loop");
+			printf(" index is bigger than 10, exit for loop\n");
 			break;
 
 		}
-		printf("for loop is on going");
+		printf("for loop is on going\n");
 
 
 	}
-
+	int i = sizeof(long);
+	printf("%d\n", i);
 
 
 

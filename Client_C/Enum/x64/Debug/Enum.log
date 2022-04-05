@@ -1,0 +1,5 @@
+﻿  enum.c
+C:\Users\User\Documents\GitHub\Client_Nowon_18-20_yh\Client_C\Enum\enum.c(16,2): error C2365: 'Idle': 재정의: 이전 정의는 '열거자'입니다.
+C:\Users\User\Documents\GitHub\Client_Nowon_18-20_yh\Client_C\Enum\enum.c(7): message : 'Idle' 선언을 참조하십시오.
+C:\Users\User\Documents\GitHub\Client_Nowon_18-20_yh\Client_C\Enum\enum.c(16,6): error C2086: 'PlayerState Idle': 재정의
+C:\Users\User\Documents\GitHub\Client_Nowon_18-20_yh\Client_C\Enum\enum.c(16): message : 'Idle' 선언을 참조하십시오.

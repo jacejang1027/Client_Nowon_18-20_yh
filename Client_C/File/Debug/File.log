@@ -1,0 +1,5 @@
+﻿  main.c
+C:\Users\User\Documents\GitHub\Client_Nowon_18-20_yh\Client_C\File\main.c(27,7): warning C4013: 'exit'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\User\Documents\GitHub\Client_Nowon_18-20_yh\Client_C\File\main.c(100,12): warning C4133: '함수': 'FILE *'과(와) 'const char *const ' 사이의 형식이 호환되지 않습니다.
+C:\Users\User\Documents\GitHub\Client_Nowon_18-20_yh\Client_C\File\main.c(79,9): warning C4101: 'averge' :참조되지 않은 지역 변수입니다.
+  File.vcxproj -> C:\Users\User\Documents\GitHub\Client_Nowon_18-20_yh\Client_C\Debug\File.exe

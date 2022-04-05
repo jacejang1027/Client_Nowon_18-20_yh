@@ -30,7 +30,102 @@
       "ProjectGuid": "d4f5af11-d696-448b-811d-91fc77884ffa",
       "DisplayName": "Operator",
       "ColorIndex": 5
+    },
+    "2af65656-31f3-49a8-964c-fd9379ee2de4": {
+      "ProjectGuid": "2af65656-31f3-49a8-964c-fd9379ee2de4",
+      "DisplayName": "Union",
+      "ColorIndex": 6
+    },
+    "29ceee94-a84b-499f-bef3-397dd54b2647": {
+      "ProjectGuid": "29ceee94-a84b-499f-bef3-397dd54b2647",
+      "DisplayName": "DynamicMemory",
+      "ColorIndex": 7
+    },
+    "9a1ac4b2-761a-4f6e-84a6-f9716e603463": {
+      "ProjectGuid": "9a1ac4b2-761a-4f6e-84a6-f9716e603463",
+      "DisplayName": "Enum",
+      "ColorIndex": 8
+    },
+    "33cb2149-6bb5-4879-9c28-7598041db5f1": {
+      "ProjectGuid": "33cb2149-6bb5-4879-9c28-7598041db5f1",
+      "DisplayName": "Structure",
+      "ColorIndex": 9
+    },
+    "6de28a9d-e894-4580-93b5-ef920551d369": {
+      "ProjectGuid": "6de28a9d-e894-4580-93b5-ef920551d369",
+      "DisplayName": "FunctionPointer",
+      "ColorIndex": 10
+    },
+    "dcea6ee3-9446-4c37-938d-9ac9fa93d091": {
+      "ProjectGuid": "dcea6ee3-9446-4c37-938d-9ac9fa93d091",
+      "DisplayName": "DoublePointer",
+      "ColorIndex": 11
+    },
+    "6c999b28-cb03-4fb4-865d-4dc100d02326": {
+      "ProjectGuid": "6c999b28-cb03-4fb4-865d-4dc100d02326",
+      "DisplayName": "Pointer",
+      "ColorIndex": 12
+    },
+    "59ac7daf-4fb5-4126-9b4c-5c3a54b59f03": {
+      "ProjectGuid": "59ac7daf-4fb5-4126-9b4c-5c3a54b59f03",
+      "DisplayName": "Example1",
+      "ColorIndex": 13
+    },
+    "eb7c471a-2b10-43a1-92ce-7cad83068781": {
+      "ProjectGuid": "eb7c471a-2b10-43a1-92ce-7cad83068781",
+      "DisplayName": "TypeDefine",
+      "ColorIndex": 14
+    },
+    "283b27bf-1bf2-40f4-90a2-6452edc60ec3": {
+      "ProjectGuid": "283b27bf-1bf2-40f4-90a2-6452edc60ec3",
+      "DisplayName": "Function",
+      "ColorIndex": 15
+    },
+    "0a873813-24c5-443b-b8a0-7ac9d89db094": {
+      "ProjectGuid": "0a873813-24c5-443b-b8a0-7ac9d89db094",
+      "DisplayName": "ControlStatement_SwitchCase",
+      "ColorIndex": 0
+    },
+    "0a391cf4-4048-44d3-9b59-6f30010b9a3b": {
+      "ProjectGuid": "0a391cf4-4048-44d3-9b59-6f30010b9a3b",
+      "DisplayName": "ControlStatement If",
+      "ColorIndex": 1
+    },
+    "5b6e4d75-0e54-4feb-9a76-b9d121eb1bf6": {
+      "ProjectGuid": "5b6e4d75-0e54-4feb-9a76-b9d121eb1bf6",
+      "DisplayName": "ControlStatement_Loob while",
+      "ColorIndex": 2
+    },
+    "af9bc8c7-cd65-4483-b87f-5b531a554576": {
+      "ProjectGuid": "af9bc8c7-cd65-4483-b87f-5b531a554576",
+      "DisplayName": "ControlStatement_Loop_for",
+      "ColorIndex": 3
+    },
+    "cd779ecd-395d-43c2-a527-06bcf44e8d28": {
+      "ProjectGuid": "cd779ecd-395d-43c2-a527-06bcf44e8d28",
+      "DisplayName": "Fileinout",
+      "ColorIndex": 4
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "기타 파일",
+      "ColorIndex": -1
+    },
+    "b67f3da2-565c-43c0-8e85-39e690b0fdb7": {
+      "ProjectGuid": "b67f3da2-565c-43c0-8e85-39e690b0fdb7",
+      "DisplayName": "Fileinout",
+      "ColorIndex": 5
+    },
+    "6bc7b9f9-053b-4688-8b68-4f31f164159b": {
+      "ProjectGuid": "6bc7b9f9-053b-4688-8b68-4f31f164159b",
+      "DisplayName": "FileInOut",
+      "ColorIndex": 6
+    },
+    "5705c500-489b-4448-89ff-b17520f6432b": {
+      "ProjectGuid": "5705c500-489b-4448-89ff-b17520f6432b",
+      "DisplayName": "File",
+      "ColorIndex": 7
     }
   },
-  "NextColorIndex": 6
+  "NextColorIndex": 8
 }

@@ -125,7 +125,17 @@
       "ProjectGuid": "5705c500-489b-4448-89ff-b17520f6432b",
       "DisplayName": "File",
       "ColorIndex": 7
+    },
+    "7ac11eeb-003c-43ed-b501-22012531b20e": {
+      "ProjectGuid": "7ac11eeb-003c-43ed-b501-22012531b20e",
+      "DisplayName": "FileDivision",
+      "ColorIndex": 8
+    },
+    "f65890ba-7ce7-41e8-ac9a-35cae117d3a6": {
+      "ProjectGuid": "f65890ba-7ce7-41e8-ac9a-35cae117d3a6",
+      "DisplayName": "DataStructure_DynaminArray",
+      "ColorIndex": 9
     }
   },
-  "NextColorIndex": 8
+  "NextColorIndex": 10
 }
